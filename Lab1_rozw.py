@@ -8,9 +8,9 @@ mojedrugie_imie = 'Magda'
 print(2>3) #False bo 2 nie jest wieksze od 3
 print('b' < 'c') #True bo znaki kodowane sa standardem Unicode i porownywane sa wartosci Unicode
 #print(10>'10') #False bo porownujemy liczbe z kodem unicode stringa
-print(bool(33)) #True bo rzutujemy liczbe rozna od zera na typ logiczny
-print(bool('False')) #True bo rzutujemy string rozny od zera na typ logiczny
-print(bool('')) #False bo pusty string
+#print(bool(33)) #True bo rzutujemy liczbe rozna od zera na typ logiczny
+#print(bool('False')) #True bo rzutujemy string rozny od zera na typ logiczny
+#print(bool('')) #False bo pusty string
 
 #Zad3
 print(10//3) #dzielenie z ominieciem reszty z ulamka
